@@ -1,3 +1,11 @@
+TEAM DETAILS:
+Team Name: Alpha
+Team members:
+1.Jayaraj
+2.Madhu
+3.Sai Krishna
+4.Vinay
+
 # hapivet_pet_records_management
 This system acts like a “health passport” for pets, making it easy for veterinary professionals to access complete medical records anytime, anywhere, ensuring better care and treatment decisions.
 
