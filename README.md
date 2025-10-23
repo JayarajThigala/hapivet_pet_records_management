@@ -1,6 +1,6 @@
 ## TEAM DETAILS:
 **Team Name: Alpha**
-Team members:
+**Team members:**
 1.Jayaraj
 2.Madhu
 3.Sai Krishna
